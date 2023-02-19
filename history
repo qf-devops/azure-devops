@@ -1,0 +1,48 @@
+  568  git clone https://devopsmar12019@dev.azure.com/devopsmar12019/aib/_git/terraform
+  569  git clone git@ssh.dev.azure.com:v3/devopsmar12019/aib/terraform
+  570  ls -lrt
+  571  cd terraform
+  572  ls -lrt
+  573  mkdir aks
+  574  touch aks/main.tf
+  575  git status
+  576  git add .
+  577  git commit -m "updated maintf for tf"
+  578  git status
+  579  git log
+  580  ls -lrt
+  581  cd ..
+  582  ls -lrt
+  583  rm -rf terraform1
+  584  cd terraform/
+  585  ls -lrt
+  586  git piush
+  587  git rem ote -v
+  588  git remote -v
+  589  git push
+  590  history
+  591  git log --oneline
+  592  git pull
+  593  cat README
+  594  clear
+  595  pwd
+  596  pwd
+  597  cd ../
+  598  rm -rf terraform/
+  599  ls -lt
+  600  pwd
+  601  cd terraform/
+  602  git remote -v
+  603  git branch
+  604  git branch rel1.0.0
+  605  git branch
+  606  git checkout rel1.0.0
+  607  git branch
+  608  git checkout -b develop
+  609  git branch
+  610  git branch aib1010
+  611  git branch
+  612  git push origin --all
+  613  git fetch
+  614  git fetch
+  615  history
